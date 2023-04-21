@@ -1,2 +1,2 @@
-# networkOfFollowers
+# Network Of Followers
 Social Network Analysis (SNA) is an incredibly interesting field of research in itself as well as a useful skillset for data scientists to apply to other fields. In this tutorial, we will use a Python package, Tweepy, to download Twitter data from the Twitter API and another Python package, NetworkX, to build a network out of that data and run some analysis. Finally, we will use Gephi to visualize the network.
